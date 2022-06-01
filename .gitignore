@@ -1,0 +1,8 @@
+replay/data/
+replay/pyfiles/__pycache__/
+replay/__pycache__/
+ewc/MNIST/
+ewc/__pycache__/
+ewc/helpers/__pycache__/
+.vscode/
+MNIST/
